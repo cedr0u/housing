@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="housing"
+version="0.1"
+displayName="housing"
+credits="by cedrou"
+displayURL="https://legacy.curseforge.com/minecraft/mc-mods/housing"
+updateJSONURL="https://raw.githubusercontent.com/cedr0u/housing/_others_/update.json"
+authors="cedrou"
+description='''
+Housing just chilling
+'''
+
+[[dependencies.housing]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
