@@ -1,7 +1,7 @@
 {
-  "homepage": "https://github.com/cedr0u/housing/releases",
+  "homepage": "https://legacy.curseforge.com/minecraft/mc-mods/housing-dimension",
   "promos": {
-    "1.19.2-latest": "0.0.1",
-    "1.19.2-recommended": "0.0.1"
+    "1.19.2-latest": "0.2",
+    "1.19.2-recommended": "0.1"
   }
 }
