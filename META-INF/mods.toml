@@ -4,11 +4,12 @@ license="All Rights Reserved"
 
 [[mods]]
 modId="housing"
-version="0.1"
+version="0.2.2"
 displayName="housing"
 credits="by cedrou"
 displayURL="https://legacy.curseforge.com/minecraft/mc-mods/housing"
 updateJSONURL="https://raw.githubusercontent.com/cedr0u/housing/_others_/update.json"
+logoFile="logo.png"
 authors="cedrou"
 description='''
 Housing just chilling
