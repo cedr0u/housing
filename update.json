@@ -1,7 +1,7 @@
 {
-  "homepage": "https://legacy.curseforge.com/minecraft/mc-mods/housing-dimension",
+  "homepage": "https://modrinth.com/mod/housing/versions",
   "promos": {
-    "1.19.2-latest": "0.2",
-    "1.19.2-recommended": "0.2"
+    "1.19.2-latest": "0.2.2",
+    "1.19.2-recommended": "0.2.2"
   }
 }
