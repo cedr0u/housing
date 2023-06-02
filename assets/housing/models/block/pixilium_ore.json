@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "housing:blocks/pixilium_ore",
+    "particle": "housing:blocks/pixilium_ore"
+  },
+  "render_type": "solid"
+}

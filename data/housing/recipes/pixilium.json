@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:stone"
+    },
+    "1": {
+      "item": "minecraft:ender_pearl"
+    },
+    "2": {
+      "tag": "forge:stone"
+    },
+    "3": {
+      "item": "minecraft:water_bucket"
+    },
+    "4": {
+      "item": "minecraft:diamond"
+    },
+    "5": {
+      "item": "minecraft:water_bucket"
+    },
+    "6": {
+      "tag": "forge:stone"
+    },
+    "7": {
+      "item": "minecraft:ender_pearl"
+    },
+    "8": {
+      "tag": "forge:stone"
+    }
+  },
+  "result": {
+    "item": "housing:pixilium",
+    "count": 1
+  }
+}
